@@ -26,7 +26,7 @@ For each job advert, the following details are required:
 the position title
 duty station (city and country where position is based)
 position status (full-time, consultant etc)
- date posted (when his vacancy was posted)
+date posted (when his vacancy was posted)
 due date for application
 url for the full job description
 the organization hiring (name)
